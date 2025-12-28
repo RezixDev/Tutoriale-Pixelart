@@ -1,6 +1,10 @@
 # Tutoriale Pixelart pod GameDev
 Tutoriale Pixelart
 
+Sekrety dobrej Animacji
+
+https://www.youtube.com/watch?v=J1sFBDQt8J0
+
 Wstęp do Animacji
 https://www.slynyrd.com/blog/2018/8/19/pixelblog-8-intro-to-animation
 
