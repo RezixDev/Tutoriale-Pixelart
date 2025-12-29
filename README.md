@@ -1,6 +1,10 @@
 # Tutoriale Pixelart pod GameDev
 Tutoriale Pixelart
 
+Ogólne porady
+https://www.youtube.com/watch?v=DKmrBUpd0yw
+https://www.youtube.com/watch?v=PndZ34z5-88
+
 Sekrety dobrej Animacji
 
 https://www.youtube.com/watch?v=J1sFBDQt8J0
